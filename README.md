@@ -10,3 +10,4 @@
 1. Сделать скрипт исполняемым:
    ```bash
    chmod +x backup.sh
+uEBA
